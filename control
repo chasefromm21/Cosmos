@@ -1,0 +1,9 @@
+Package: com.chasefromm.cosmos
+Name: Cosmos
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables PictureInPicture on unsupported iOS 9 and iOS 10 devices. No options to configure.. no screenshots available.. for now..
+Maintainer: Chase Fromm
+Author: Chase Fromm
+Section: Tweaks
