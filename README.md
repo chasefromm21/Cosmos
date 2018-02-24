@@ -7,6 +7,4 @@
 
 **License**: Licensed under the MIT license.
 
-**Credits**: Me for making Cosmos, and for everyone else testing.
-
-If you choose to reproduce this software, you may do so. But, please do credit me if you can. :P
+**Credits**: Credits to me for making this. You may reproduce and reuse this software, but please credit me if you can for making this.
