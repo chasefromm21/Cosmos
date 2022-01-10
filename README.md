@@ -8,4 +8,4 @@
 
 **Credits**: Credits to me for making this. You may reproduce and reuse this software, but please credit me if you can for making this.
 
-**Repo for installation and download**: You can <a href="http://chasefromm17.yourepo.com">download this</a> on my Cydia repo now.
+**Repo for installation and download**: You can <a href="http://chasefromm17.yourepo.com">download this (unavailable due to repo shutdown)</a> on my Cydia repo now.
